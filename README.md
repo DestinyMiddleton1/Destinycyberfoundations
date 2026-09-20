@@ -4,8 +4,9 @@
 
 ## About Me
 
-[Replace this paragraph with at least three sentences: who you are, why you are learning cybersecurity, and one learning goal for this course. Keep the `## About Me` heading and the rest of this README.]
-
+My name is Destiny, and I am beginning my journey into the field of cybersecurity.
+I am learning cybersecurity to develop a new skill set. I can see myself thriving in this type of work, I enjoy paying close attention to detail, solving problems, and thinking creatively about new ways to approach challenges.
+My primary goal is to build a strong foundation in cybersecurity and use the knowledge and skills I gain to pursue a new career path in the field.
 This repository documents your hands-on learning through the **CyberVisionaries Institute Cyber Foundations (Tier I)** program.
 
 This is your working portfolio — **not the instructor repository.** All lesson content and lab instructions live here, in your own repo — you never need to pull anything from an instructor repo.
